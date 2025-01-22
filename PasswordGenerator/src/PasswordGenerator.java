@@ -9,6 +9,7 @@ Il programma deve fare quanto segue:
 	- data di nascita di un utente suddivisa in giorno, mese e anno in numero
 - generare (e stampare a video) una password concatenando nome, cognome, colore preferito e somma di giorno, mese e anno di nascita, separate dal carattere -
  */
+//Gitignore is not working properly... Non mi funziona ci ho provato fino alla fine ma poi ho pushato esausta.💔
 
 import java.util.Scanner;
 
